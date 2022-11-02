@@ -169,6 +169,7 @@ body {
 
 /*Footer style*/
 .footer{
+    max-width: 1440px;
     width: 100%;
     height: 180px;
     background-color:#E4D6BF;
